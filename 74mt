@@ -8,7 +8,7 @@ struct node
     node *next;
 };
 
-class linked_list
+class new_class
 {
 private:
     node *head,*tail;
